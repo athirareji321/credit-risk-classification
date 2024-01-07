@@ -8,8 +8,10 @@
   3. Write a Credit Risk Analysis Report
   
 ### Results
-#### 1. Split the Data into Training and Testing Sets
-#### 2. Create a Logistic Regression Model with the Original Data
+#### 1. Split the Data into Training and Testing Sets and 2. Create a Logistic Regression Model with the Original Data
+#### Confusion Matrix
+![](https://github.com/athirareji321/credit-risk-classification/blob/main/README_Images/2.png)
+#### Classification Report
 ![](https://github.com/athirareji321/credit-risk-classification/blob/main/README_Images/1.png)
 #### 3. Write a Credit Risk Analysis Report
 [Credit Risk Analysis Report.pdf](https://github.com/athirareji321/credit-risk-classification/blob/main/Credit%20Risk%20Analysis%20Report.pdf)
